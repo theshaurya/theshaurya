@@ -27,7 +27,7 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
 <h3>🛠 Languages and Tools</h3>
 
 <h4>Backend & Systems</h4>
-<div style="display: flex; gap: 16px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; background: white; padding: 10px 20px; border-radius: 8px; max-width: fit-content; margin-bottom: 1em;">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" title="Rust">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" />
   </a>
@@ -37,7 +37,7 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
 </div>
 
 <h4>Databases & Messaging</h4>
-<div style="display: flex; gap: 16px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; background: white; padding: 10px 20px; border-radius: 8px; max-width: fit-content; margin-bottom: 1em;">
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   </a>
@@ -50,7 +50,7 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
 </div>
 
 <h4>DevOps & Infrastructure</h4>
-<div style="display: flex; gap: 16px; align-items: center;">
+<div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; background: white; padding: 10px 20px; border-radius: 8px; max-width: fit-content; margin-bottom: 1em;">
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   </a>
@@ -58,6 +58,7 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
 </div>
+
 
 ---
 
