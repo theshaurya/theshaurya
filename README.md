@@ -26,11 +26,11 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
 
 <h3 align="left">Backend & Systems</h3>
 <p align="left">
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="rust" />
   </a>
   <a href="https://actix.rs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="actix" width="40" height="40"/>
+    <img src="https://actix.rs/img/logo.svg" width="40" height="40" alt="actix-web" />
   </a>
 </p>
 
