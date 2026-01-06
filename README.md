@@ -1,6 +1,6 @@
 # Hi, I'm Shaurya 👋
 
-Senior Backend Engineer specializing in **high-performance, scalable backend systems** using **Rust**.
+Senior Engineer specializing in **high-performance, scalable backend systems** using **Rust**.
 
 I have 3+ years of experience designing and building **production-grade backend services**, with a strong focus on **reliability, performance, and distributed systems**. I enjoy working close to the metal—writing clean, safe, and efficient Rust code—while also thinking deeply about system design, scalability, and operational excellence.
 
