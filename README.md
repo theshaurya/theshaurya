@@ -24,8 +24,6 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
 
 ## 🛠 Languages and Tools
 
-<h3>🛠 Languages and Tools</h3>
-
 <h4>Backend & Systems</h4>
 <div style="display: flex; gap: 20px; align-items: center; flex-wrap: wrap; background: white; padding: 10px 20px; border-radius: 8px; max-width: fit-content; margin-bottom: 1em;">
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" title="Rust">
@@ -58,7 +56,6 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
 </div>
-
 
 ---
 
