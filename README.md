@@ -24,41 +24,40 @@ I focus on building systems that are **observable, fault-tolerant, and ready to 
 
 ## 🛠 Languages and Tools
 
-<h3 align="left">Backend & Systems</h3>
-<p align="left">
-  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40" alt="rust" />
-  </a>
-  <a href="https://actix.rs/" target="_blank" rel="noreferrer">
-    <img src="https://actix.rs/img/logo.svg" width="40" height="40" alt="actix-web" />
-  </a>
-</p>
+<h3>🛠 Languages and Tools</h3>
 
-<h3 align="left">Databases & Messaging</h3>
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+<h4>Backend & Systems</h4>
+<div style="display: flex; gap: 16px; align-items: center;">
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer" title="Rust">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="Rust" width="40" height="40" />
   </a>
-  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
+  <a href="https://actix.rs/" target="_blank" rel="noreferrer" title="Actix Web">
+    <img src="https://actix.rs/img/logo.svg" alt="Actix Web" width="40" height="40" />
   </a>
-  <a href="https://redis.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-</p>
+</div>
 
-<h3 align="left">DevOps & Infrastructure</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+<h4>Databases & Messaging</h4>
+<div style="display: flex; gap: 16px; align-items: center;">
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" title="PostgreSQL">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer" title="Kafka">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" width="40" height="40" />
   </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <a href="https://redis.io/" target="_blank" rel="noreferrer" title="Redis">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" />
   </a>
-</p>
+</div>
+
+<h4>DevOps & Infrastructure</h4>
+<div style="display: flex; gap: 16px; align-items: center;">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer" title="Docker">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer" title="GitHub">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
+  </a>
+</div>
 
 ---
 
