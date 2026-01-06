@@ -97,23 +97,6 @@ impl BackendEngineer {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=YourGitHubUsername&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
 ## 🚀 What I'm Looking For
 
 I'm looking to join a **high-impact**, **engineering-driven** team where I can:
